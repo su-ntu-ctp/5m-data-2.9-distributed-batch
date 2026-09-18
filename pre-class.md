@@ -17,3 +17,5 @@ Apache Spark is the industry standard for large-scale batch data processing. Mos
 **Spark DataFrames and SQL** — Spark's DataFrame API mirrors pandas-like operations (`.select()`, `.filter()`, `.groupBy()`) but executes across a cluster. The ability to register a DataFrame as a SQL temp view means data engineers and analysts can collaborate in the same framework.
 
 **The Big Data Ecosystem Evolution** — Hadoop → MapReduce → Spark. Understanding *why* Spark exists (it keeps data in memory between steps, unlike MapReduce's disk-heavy approach) gives you historical context for the tools you'll encounter in job interviews and legacy systems.
+
+📄 [View lesson 2.9 interactive page](https://su-ntu-ctp.github.io/5m-data-2.9-distributed-batch/)
